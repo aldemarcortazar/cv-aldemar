@@ -586,7 +586,7 @@ progress::-moz-progress-value{
     left: 0;
     padding: 1rem;
     position: fixed;
-    width: 100%;
+    width: 100vw;
     z-index: 999;
 }
 
