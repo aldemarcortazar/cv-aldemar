@@ -312,6 +312,7 @@ p{
     transition: opacity .5s ease;
     pointer-events: none;
     width: 100%;
+    max-width:100vw;
 }
 
 .menu.isactive{
@@ -372,6 +373,7 @@ p{
     opacity: 0;
     pointer-events: none;
     transition: all 1s;
+    max-width:100vw;
 }
 .modal-content{
     position: relative;
